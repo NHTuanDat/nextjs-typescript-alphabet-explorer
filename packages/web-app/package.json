@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@project/web-app",
+    "version": "1.0.0",
+    "license": "SEE LICENSE IN ../../LICENSE",
+    "scripts": {
+        "build": "next build",
+        "dev": "next dev",
+        "export": "next export",
+        "start": "next start"
+    },
+    "dependencies": {
+        "@project/components": "*",
+        "ethers": "^5.6.9",
+        "next": "^12.1.6",
+        "next-compose-plugins": "^2.2.0",
+        "next-transpile-modules": "^9.0.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    }
+}

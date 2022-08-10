@@ -1,0 +1,9 @@
+node_modules
+.idea
+.DS_Store
+packages/web-app/.next
+.prettierrc
+yarn.lock
+index.html
+*.log
+.github
