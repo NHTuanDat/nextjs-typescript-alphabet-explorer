@@ -1,5 +1,3 @@
-# Table of Contents
-
 # 1. Introduction
 
 This is a learning project to create a explorer for a private blockchain.
@@ -9,7 +7,7 @@ Thanks to [th0th](https://github.com/th0th/nextjs-typescript-yarn-workspaces) fo
 
 ![Alphabet explorer]()
 
-## 2.1 Development
+# 2. Development
 
 1. Install dependencies
 
