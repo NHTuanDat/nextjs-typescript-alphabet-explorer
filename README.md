@@ -23,4 +23,4 @@ Thanks to [th0th](https://github.com/th0th/nextjs-typescript-yarn-workspaces) fo
 
     Then the application should be accessible on [http://localhost:3000](http://localhost:3000).
     Remember to start alphabet private chain in port 8543 first.
-    You can edit the webapp RPC port in `packages\web-app\pages\index.tsx` on line 10
+    You can edit the webapp RPCURL in `packages\web-app\pages\index.tsx` on line 10
