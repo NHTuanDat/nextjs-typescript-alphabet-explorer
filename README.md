@@ -5,7 +5,7 @@ This is a learning project to create a explorer for a private blockchain.
 The webapp is coded in `typescript` using `Next.js` framework, `ethers` to fetch blockchain data, `bootstrap` for CSS contents.
 Thanks to [th0th](https://github.com/th0th/nextjs-typescript-yarn-workspaces) for the Next.js boilerplate.
 
-![Alphabet explorer](https://github.com/NHTuanDat/nextjs-typescript-alphabet-explorer/blob/master/Screenshot%202022-08-10%20at%2010-06-38%20Alphabet%20Explorer.png)
+![Alphabet explorer](https://github.com/NHTuanDat/nextjs-typescript-alphabet-explorer/blob/master/Screenshot%202022-08-10%20at%2011-29-56%20Alphabet%20Explorer.png)
 
 # 2. Development
 
